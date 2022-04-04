@@ -1,14 +1,15 @@
 import React from 'react'
 import Card from '../components/shared/Card'
+import {Link} from 'react-router-dom'
 
 function AboutPage() {
   return (
     <Card>
-      <div>AboutPage</div>
-      <p>This is a Feedback App to leave feedback for a product or a service</p>
+      <p>This is a <b>Feedback App</b> to leave feedback for a product or a service</p>
       <p>Version: 0.0.1</p>
+      <hr />
       <p>
-        <a href="/">Back To Home</a>
+        <Link to="/">Back To Home</Link>
       </p>
     </Card>
   )
