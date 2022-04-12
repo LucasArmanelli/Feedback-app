@@ -33,6 +33,10 @@ function FeedbackStats() {
   )
 }
 
+FeedbackStats.defaultProps = {
+  feedback: [],
+}
+
 FeedbackStats.propTypes = {
   feedback: PropTypes.array.isRequired,
 }
