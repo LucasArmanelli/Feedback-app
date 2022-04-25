@@ -5,6 +5,7 @@ import Card from "./shared/Card"
 import FeedbackContext from '../context/FeedbackContext'
 
 function FeedbackItem({ item }) {
+  debugger;
   const { deleteFeedback, editFeedback } = useContext(FeedbackContext)
   return (
     <Card>
@@ -15,9 +16,10 @@ function FeedbackItem({ item }) {
       <button className="edit">
         <FaEdit onClick={() => editFeedback(item)} color="purple"/>
       </button>
-      <div className="text-display">{item.feedback}</div>
+      <div className="text-display">{item.text}</div>
     </Card>
   )
+
 }
 
 FeedbackItem.propTypes = {
