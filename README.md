@@ -1,5 +1,5 @@
 ## Live Preview 
-<p>👇👇👇👇👇👇👇
+<p>👇👇👇👇👇👇
 
 <a href="https://visionary-tanuki-11e077.netlify.app/" target="_blank">![Logo](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
 
