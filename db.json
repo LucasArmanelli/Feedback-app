@@ -18,12 +18,12 @@
     {    
       "id": 4,
       "rating": 7,
-      "text": "This is a bad product, coming from the backend"
+      "text": "This is a avarage product, coming from the backend"
     },
     {    
       "id": 5,
       "rating": 8,
-      "text": "This is a bad product, coming from the backend"
+      "text": "This is a great product, coming from the backend"
     }
   ]
 }
