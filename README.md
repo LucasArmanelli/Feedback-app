@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/uCkqlmh.png)
+![App Screenshot](https://i.imgur.com/Bb4bXlm.gif)
 
 
 # Getting Started with Create React App
